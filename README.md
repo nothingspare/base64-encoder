@@ -1,7 +1,7 @@
 # INSTALL
 
 ```
-git pull https://github.com/nothingspare/base64-encoder
+git clone https://github.com/nothingspare/base64-encoder
 cd base64-encoder
 npm install
 ```
